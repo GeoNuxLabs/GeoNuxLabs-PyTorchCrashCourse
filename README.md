@@ -1,4 +1,4 @@
-## 🔧 Installation on Ubuntu Linux (Conda + PyTorch + CUDA 12.1)
+## Installation on Ubuntu Linux (Conda + PyTorch + CUDA 12.1)
 
 This project uses a dedicated Conda environment to ensure a clean and reproducible PyTorch setup.  
 The steps below describe how to install PyTorch with full GPU acceleration on Ubuntu Linux.
@@ -42,12 +42,15 @@ You can now launch Jupyter with:
 ```bash
 jupyter lab
 ```
-✔ Summary
+### Summary
 
-    Uses a clean Conda environment
+    - Uses a clean Conda environment
 
-    Avoids MKL/iJIT conflicts on Ubuntu
+    - Avoids MKL/iJIT conflicts on Ubuntu
 
-    Installs PyTorch with CUDA 12.1 GPU acceleration
+    - Installs PyTorch with CUDA 12.1 GPU acceleration
 
-    Fully compatible with NVIDIA GPUs on Linux
+    - Fully compatible with NVIDIA GPUs on Linux
+
+### Credits 
+This crash course is inspired by the excellent PyTorch tutorial series by **<Zachary Huang>** and **<freeCodeCamp.org>** on YouTube. The code is rewritten, extended, and documented by me for learning purposes.
