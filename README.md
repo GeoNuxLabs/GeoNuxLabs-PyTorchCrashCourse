@@ -53,4 +53,4 @@ jupyter lab
     - Fully compatible with NVIDIA GPUs on Linux
 
 ### Credits 
-This crash course is inspired by the excellent PyTorch tutorial series by **Zachary Huang and **freeCodeCamp.org on YouTube. The code is rewritten, extended, and documented by me for learning purposes.
+This crash course is inspired by the excellent PyTorch tutorial series by **Zachary Huang and **freeCodeCamp.org on YouTube. The code is rewritten, extended, and documented by GeoNuxLabs for learning purposes.
