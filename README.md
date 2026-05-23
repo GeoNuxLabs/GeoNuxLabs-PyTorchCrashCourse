@@ -16,8 +16,9 @@ The crash course is structured so that:
 - this README helps you prepare your system  
 - the **overview notebook** gives you a holistic conceptual understanding of how neural networks learn  
 - the **step‑by‑step notebooks** dive deeper into each part of the training process with raw tensor math, PyTorch implementations, and GeoAI‑specific examples  
+- the **exercises** encourage you to reflect on what you’ve learned and express it in your own words. For solutions, please see the **ExerciseAnswers notebook**. 
 
-This ensures that you first understand *how neural networks work conceptually*, and then learn *how to implement them in PyTorch* for geospatial applications.
+This structure ensures that you first understand *how neural networks work conceptually*, and then learn *how to implement them in PyTorch* for geospatial applications.
 
 Below you will find the installation instructions for setting up the Conda environment and installing PyTorch with CUDA support.
 
