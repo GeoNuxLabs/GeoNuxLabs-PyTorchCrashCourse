@@ -1,6 +1,7 @@
 # About This Crash Course and GeoAI Setup
 
-This repository is part of a practical GeoAI crash course developed by GeoNuxLabs.  
+This repository is part of a practical GeoAI crash course developed by GeoNuxLabs, based on a combination of several YouTube tutorials (see credits at the bottom) and insights gained through years of hands‑on experience in deep learning.
+
 The goal of the course is to teach the fundamentals of Deep Learning and PyTorch, and then apply them to real geospatial problems such as satellite imagery analysis, raster classification, and spatial feature extraction.
 
 Before diving into the code notebooks, this README provides the required installation steps for setting up a clean and GPU‑accelerated PyTorch environment on Ubuntu Linux.  
